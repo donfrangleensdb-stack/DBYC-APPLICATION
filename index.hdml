@@ -494,7 +494,7 @@
           <div class="form-group">
             <label class="form-label">Google Apps Script Web App URL:</label>
             <div style="display: flex; gap: 8px;">
-              <input type="url" class="form-control" id="cfg-gas-url" value="https://script.google.com/macros/s/AKfycbyEgoT623kShT-YX-z1tM1MV5JXcybez_K_0xY7cR_LddUEO1xRue6W6qem3q79OE5L0w/exec" placeholder="https://script.google.com/macros/s/.../exec">
+              <input type="url" class="form-control" id="cfg-gas-url" value="https://script.google.com/macros/s/AKfycbzTLUvVEasfhT2xHVtsVwcg0au5dzOw-ErxoOPm09R-_WLtllvS1MA3sKRybdM-bWvQFQ/exec" placeholder="https://script.google.com/macros/s/.../exec">
               <button type="button" class="btn btn-secondary" id="btn-test-gas">🔌 Test</button>
             </div>
             <small style="color: var(--text-muted); font-size: 0.75rem; margin-top: 4px; display: block;">
